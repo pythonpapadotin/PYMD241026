@@ -1,0 +1,32 @@
+Python
+Python is a general purpose programming language.
+
+- Backend Server (Web Framework)
+- AI Applications (Langchain framework)
+- Data Engineering (Cloud Resources like
+AWS lambda)
+- Data Science (Data Visualization, building
+small custom models)
+
+
+
+What do you need to learn python:-
+1. Python Interpreter Setup on local/personal computer :- 
+www.python.org and download a python version >= 3.10 and install it.
+
+2. Place to write python code:- IDE (Integrated Development Environment)
+
+IDE will auto connect with python interpreter and we can directly run our python code from
+IDE.
+
+Pycharm -> jetbrains website :- free version is enough.
+
+
+
+
+
+
+
+
+
+
